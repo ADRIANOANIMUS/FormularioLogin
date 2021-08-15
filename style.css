@@ -5,3 +5,10 @@
 body{
     background-color: #5f7c8a;
 }
+
+form{
+    background-color: white;
+    max-width: 500px;
+    width: 70;
+    padding: 20px;
+}
